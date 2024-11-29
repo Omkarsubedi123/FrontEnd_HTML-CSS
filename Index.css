@@ -180,7 +180,7 @@
 }
 .ThirdContainer .ImageSixth {
   width: 50%;
-  height: 50vh;
+  height: 60vh;
   position: relative;
   text-align: center;
   color: azure;
@@ -191,6 +191,7 @@
 }
 .ThirdContainer .ImageSeventh {
   width: 50%;
+  height: 60vh;
   position: relative;
   text-align: center;
   color: azure;
